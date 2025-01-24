@@ -22,6 +22,8 @@
 
 <p>The <code>ers-discord-report</code> script exclusively designed for Night's Emergency Response Simulator script for FiveM and enables operation report data to be streamed into Discord on an interval. Players can use the MDT as normal and then this gets pushed into a designated Discord channel via a Discord Webhook URL.</p>
 
+<img src="https://imgur.com/kDv1TB0"/>
+
 <h3>Dependencies:</h3>
 <ul>
   <li>Requires a MySQL database setup for data persistence.</li>
