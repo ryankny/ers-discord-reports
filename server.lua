@@ -111,7 +111,7 @@ function buildEmbedJson(report)
 end
 
 -- Function to send the operation report data to Discord
-local function sendReportWebhook(report)
+function sendReportWebhook(report)
 
     -- Build the JSON to send to Discord
     local jsonToSend = buildEmbedJson(report)
